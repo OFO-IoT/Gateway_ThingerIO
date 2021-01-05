@@ -1,0 +1,3 @@
+/home/kahkahkah/Gateway_ThingerIO/build/CMakeFiles/rebuild_cache.dir
+/home/kahkahkah/Gateway_ThingerIO/build/CMakeFiles/thinger.dir
+/home/kahkahkah/Gateway_ThingerIO/build/CMakeFiles/edit_cache.dir
